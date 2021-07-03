@@ -7,7 +7,7 @@ I feel Data Science field is just like me #CuriousChild!
 - 🔭 I’m currently working on: Kaggle Notebooks in my freetime on Weekends.
 - 🌱 I’m currently learning: Tensorflow
 - 👯 I’m looking to collaborate on: Kaggle Competitions(To Get Started)
-- 🤔 I’m looking for help with : Writing Datascience blog posts.
+- 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
 - 😄 Pronouns: He/Him
