@@ -2,7 +2,7 @@
 I am Shasank Dave, A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts
 I feel Data Science field is just like me #CuriousChild!
 
-# Sofware Engineer | DataScience Learner | Curious Child :)
+# Sofware Engineer | DataScience Explorer | Curious Child :)
 
 - 🔭 I’m currently working on: Kaggle Notebooks in my freetime on Weekends.
 - 🌱 I’m currently learning: Tensorflow
