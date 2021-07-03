@@ -19,7 +19,7 @@ I feel Data Science field is just like me #CuriousChild!
 [DataCamp: Data Scientist with python track](https://www.datacamp.com/statement-of-accomplishment/track/ccb4ffeba9febfa6dce4d09f0a302af2695b801e) <br/>
 [Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
 
-# Agile/Scurm :
+# Agile/Scrum :
 ![image info](./psmi.png) [Professional Scrum Master] (https://www.scrum.org/certificates/377755) 
 
 ## KeepLearning :
