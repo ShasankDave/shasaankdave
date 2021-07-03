@@ -20,7 +20,7 @@ I feel Data Science field is just like me #CuriousChild!
 [Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
 
 # Agile/Scurm :
-[Professional Scrum Master] (https://www.scrum.org/certificates/377755)
+[Professional Scrum Master] (https://www.scrum.org/certificates/377755) 
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
