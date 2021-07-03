@@ -1,5 +1,5 @@
 ### Hi Folks! 👋
-I am Shasank M. Dave, A software engineer(GoLang|Ab>Initio), On journey of learning Data Science & ML concepts
+I am Shasank Dave, A software engineer(GoLang|Ab>Initio), On journey of learning Data Science & ML concepts
 I feel Data Science field is just like me #CuriousChild!
 
 # Sofware Engineer | DataScience Learner | Curious Child :)
